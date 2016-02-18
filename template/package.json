@@ -16,7 +16,7 @@
     "vue-resource": "^0.7.0",
     "vue-router": "^0.7.11",
     "vue-mdl": "^0.3.7",
-    "vue-validator": "^2.0"
+    "vue-validator": "^2.0.0-alpha.20"
   },
   "devDependencies": {
     "babel-core": "^6.0.0",
